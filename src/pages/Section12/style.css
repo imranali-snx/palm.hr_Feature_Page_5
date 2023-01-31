@@ -24,7 +24,7 @@
     height: 100vh;
     margin-top: -80px;
     margin-bottom: -100px;
-    padding-left: 146px;
+    padding-left: 150px;
     padding-top: 150px;
   }
 }
@@ -40,6 +40,7 @@
     text-align: center;
     color: #043344;
     margin-bottom: 0px;
+    margin-top: 0px;
   }
   .descrypt-heartbeat {
     font-family: 'Satoshi';

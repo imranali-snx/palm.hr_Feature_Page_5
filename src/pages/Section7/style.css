@@ -14,9 +14,11 @@
     text-align: left;
     margin-bottom: 24px;
     /* height: 100px; */
-    width: 477px;
+    width: 430px;
   }
-
+.Section7-padding{
+  padding: 0px 94px;
+}
   .descrypt4 {
     font-family: "Satoshi";
     font-style: normal;
@@ -41,7 +43,7 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding-left: 75px;
+    padding-left: 45px;
   }
   .list-ul4 {
     width: 410px;
@@ -52,7 +54,7 @@
   }
   .img-size4 {
     width: 98%;
-    margin-left: 12px;
+    margin-left: 15px;
     margin-top: 4px;
   }
   .img-size4-mbl {
@@ -118,7 +120,11 @@
     display: flex;
   }
   .img-size4-mbl {
-    width: 100%;
+    width: 95%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
   }
   .img-size4 {
     display: none;

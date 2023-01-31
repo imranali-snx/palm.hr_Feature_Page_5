@@ -7,10 +7,10 @@
     bottom: 20px;
   }
   .sec4img-size {
-    width: 1137px;
+    width: 76%;
     height: 183px;
   }
-  .sec4img-size-mbl{
+  .sec4img-size-mbl {
     display: none;
   }
 }
@@ -18,9 +18,8 @@
 @media screen and (max-width: 992px) {
   .sec4img-size {
     display: none;
-
   }
-  .sec4img-size-mbl{
+  .sec4img-size-mbl {
     display: block;
   }
   .image-section4 {

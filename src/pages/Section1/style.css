@@ -84,12 +84,12 @@ body {
     background-color: #ffffff;
   }
   .position-hero {
-    padding-left: 146px;
+    padding-left: 151px;
     margin-top: 100px;
   }
 
   .desktop-img {
-    width: 98%;
+    width: 95%;
   }
   .mobile-img{
     display: none;
@@ -222,7 +222,11 @@ body {
     display: none;
   }
   .mobile-img{
-    width: 100%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
   }
   .heroSection {
     background: #fcf9f3;

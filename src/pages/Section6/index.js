@@ -12,9 +12,9 @@ const Section6 = () => {
 
   return (
     <div>
-      <Row className=" ">
+      <Row className="section6-padding ">
         <Col xxl={12} xl={12} lg={24} md={24} sm={24} xs={24}>
-          <div className="text-shape">
+          <div className="text-shape6">
             <div className="mbl2">
               <p className="title2">{data?.title1}</p>
               <p className="title22">{data?.title2}</p>
