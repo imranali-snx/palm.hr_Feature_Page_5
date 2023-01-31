@@ -17,7 +17,7 @@ const Offersection = () => {
     {
       Url: pic2,
       heading: "COMPENSATION MANAGEMENT",
-      list2: "Salaries on Time,Error Free.",
+      list2: "Salaries on Time, Error Free.",
     },
     {
       Url: pic3,
