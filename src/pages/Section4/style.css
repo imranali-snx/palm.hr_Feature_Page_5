@@ -1,0 +1,33 @@
+@media screen and (min-width: 992px) {
+  .image-section4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 20px;
+  }
+  .sec4img-size {
+    width: 1137px;
+    height: 183px;
+  }
+  .sec4img-size-mbl{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .sec4img-size {
+    display: none;
+
+  }
+  .sec4img-size-mbl{
+    display: block;
+  }
+  .image-section4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 10px;
+  }
+}
