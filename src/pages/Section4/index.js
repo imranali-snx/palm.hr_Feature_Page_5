@@ -1,6 +1,6 @@
 import React from "react";
-import img from "../../images/zero.svg";
-import img_mbl from "../../images/zero-mbl.svg";
+import img from "../../images/feature5-zero.svg";
+import img_mbl from "../../images/feature5-zero-mbl.svg";
 
 import "./style.css";
 

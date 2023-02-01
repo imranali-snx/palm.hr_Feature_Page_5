@@ -1,7 +1,7 @@
 import React from "react";
 
-import img from "../../images/four.svg";
-import img_mbl from "../../images/four-mbl.svg";
+import img from "../../images/feature5-four.svg";
+import img_mbl from "../../images/feature5-four-mbl.svg";
 
 import "./style.css";
 

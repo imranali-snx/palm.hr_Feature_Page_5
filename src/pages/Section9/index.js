@@ -1,7 +1,7 @@
 import React from "react";
 
-import img from "../../images/muqeem-width.svg";
-import img_mbl from "../../images/muqeem-width-mbl.svg";
+import img from "../../images/feature5-muqeem-width.svg";
+import img_mbl from "../../images/feature5-muqeem-width-mbl.svg";
 import "./style.css";
 
 const Section3 = () => {

@@ -17,7 +17,7 @@
     color: #043344;
   }
   .heartbeat{
-    background-image: url("../../images/heartbeat-background.svg");
+    background-image: url("../../images/feature5-heartbeat-background.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
@@ -54,7 +54,7 @@
     margin-bottom: 113px;
   }
   .heartbeat{
-    background-image: url("../../images/heartbeat-mbl.svg");
+    background-image: url("../../images/feature5-heartbeat-mbl.svg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     display: flex;

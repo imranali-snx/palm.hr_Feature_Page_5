@@ -2,8 +2,8 @@ import React from "react";
 import { Col, Row } from "antd";
 import { Button } from "antd";
 import { data } from "../../Data/Section1";
-import herosecMbl from "../../images/Headerimage-mbl.svg";
-import herosec from "../../images/Headerimage.svg";
+import herosecMbl from "../../images/feature5-Headerimage-mbl.svg";
+import herosec from "../../images/feature5-Headerimage.svg";
 
 import "./style.css";
 
